@@ -1,0 +1,6 @@
+tmp/
+bin/
+coverage/
+build/
+*.lst
+*.map
