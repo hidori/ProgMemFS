@@ -1,0 +1,38 @@
+#######################################
+# Syntax Coloring Map For ProgMemFS
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ProgMemFile	KEYWORD1
+ProgMemDirectory	KEYWORD1
+ProgMemFS	KEYWORD1
+ProgMemFSEntry	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+available	KEYWORD2
+read	KEYWORD2
+peek	KEYWORD2
+readBytes	KEYWORD2
+write	KEYWORD2
+flush	KEYWORD2
+seek	KEYWORD2
+position	KEYWORD2
+size	KEYWORD2
+open	KEYWORD2
+openDirectory	KEYWORD2
+openNextFile	KEYWORD2
+openNextDirectory	KEYWORD2
+rewind	KEYWORD2
+name	KEYWORD2
+isFile	KEYWORD2
+isDirectory	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
